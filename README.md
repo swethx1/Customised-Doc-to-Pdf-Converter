@@ -1,6 +1,6 @@
-# Custom DOC to PDF Converter 📝➡️📄
+Custom DOC to PDF Converter 
 
-This project is a custom tool to convert `.doc` or `.docx` files into PDF format.
+This project is a custom tool to convert '.doc' or '.docx' files into PDF format.
 
  Features
 - Supports basic formatting and layout
@@ -17,5 +17,5 @@ This tool is still evolving. If you run into problems, feel free to open an issu
 
 How to Use
 1. Clone the repository
-2. Run `python convert.py file.docx`
+2. Run 'app.py'
 3. Check your downloads for the PDF
